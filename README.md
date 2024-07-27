@@ -14,7 +14,8 @@ This project is a versatile project built using the Raspberry Pico W, designed t
 * IR LED/IR Module: For sending infrared signals to control the air conditioner
 
 ## Circuit diagram
-![Imgur](https://i.imgur.com/UHzK119.png)
+<img src="https://i.imgur.com/UJ2R3wX.jpeg" width="500px"></img>
+![Imgur](https://i.imgur.com/F9mWKQD.jpeg)
 
 ## Finished Product
 ![Imgur](https://i.imgur.com/d76eYie.png)
