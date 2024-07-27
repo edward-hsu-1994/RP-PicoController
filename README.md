@@ -13,4 +13,8 @@ This project is a versatile project built using the Raspberry Pico W, designed t
 * MQ-135 CO2 Sensor: For CO2 concentration measurement
 * IR LED/IR Module: For sending infrared signals to control the air conditioner
 
-## Circuit Connection Schematic
+## Circuit diagram
+![Imgur](https://i.imgur.com/UHzK119.png)
+
+## Finished Product
+![Imgur](https://i.imgur.com/d76eYie.png)
